@@ -1,8 +1,8 @@
-# Proyecto 2 : Preparar pruebas y documentacion en base a los Requisitos del aplicativo "Urban Routes"
+# Proyecto 2 : Preparar pruebas y documentación en base a los Requisitos del aplicativo "Urban Routes"
 
 ## Descripción del Proyecto
 
-Este proyecto se centra en la identificacion de clases de equivalencia y el diseno de casos de prueba, basandose en los Requisitos del Aplicativo de Urban Routes.
+Este proyecto se centra en la identificación de clases de equivalencia y el diseno de casos de prueba, basandose en los Requisitos del Aplicativo de Urban Routes.
 
 Urban Routes es una aplicación que crea rutas y calcula la duración y precio del viaje para diferentes tipos de transporte. Contiene dos campos para las direcciones: "Desde" y "Hasta". Además, cuenta con tres modos ("Óptimo", "Flash" y "Personal"), así como íconos para los tipos de transporte (automóvil del usuario, a pie, taxi, bicicleta, scooter o compartir un automóvil). Una vez el usuario establece sus ubicaciones "Desde" y "Hasta", la aplicación recibe esa información como puntos "A" y "B". Luego, calcula la duración total de viaje y el precio utilizando un algoritmo específico.
 
@@ -30,6 +30,24 @@ La tarea es analizar y descomponer estos requisitos, dividir clases de equivalen
 3. Cuadro Velocidad media del Automovil
 
 ## Desarrollo del Proyecto
+
+1. Analice minuciosamente los requisitos y los diseños para la función "Agregar licencia de conducir" plasmandolos de manera gráfica en un mapa mental.
+   
+2. **Dibuje el mapa mental** solo para el campo "Agregar licencia de conducir" y la ventana emergente correspondiente. No se incluyo otras partes del navegador a solicitud del proyecto. Considerando que el mapa mental lo dividi en dos partes: interfaz (cómo debería verse cada elemento) y funcionalidad. (cómo deberían comportarselas entradas de datos como usuario). De igual forma se adicionaron algunas zonas grises.
+   
+3. **Identifique las clases de equivalencia. y  defini los valores límite de cada clase.**
+
+4. Elegi los valores de prueba para comprobar cada clase y sus límites, para los dos campos: "Nombre" y "Apellido"
+
+5. **Disene el diagrama de flujo** solo en base a la velocidad del automóvil compartido en función de la hora de salida
+   
+6. Comprobe que el precio y la duración del viaje se calculen correctamente. Analice los requisitos para calcular la duración y el precio de compartir un automóvil en base a la tabla de Velocidad del automovil
+
+7. Comprobe la logica del cálculo en base a velocidad y hora, y a las clases de equivalencia desarrolladas previamente.
+   
+9. Elegi valores de prueba para comprobar cada clase y sus límites en base a las fórmulas y el diagrama de flujo.
+    
+11. **Desarrolle Casos de prueba** basados en los valores de prueba dentro de las clases de equivalencia para comprobar que la lógica de cálculo de la duración y el precio de un viaje sea la correcta
 
 
    
