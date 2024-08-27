@@ -2,6 +2,6 @@
 
 ## Descripción del Proyecto
 
-Este proyecto se enfoca en el análisis del comportamiento de los clientes de Megaline, un operador de telecomunicaciones que ofrece dos tarifas de prepago: Surf y Ultimate. El objetivo es determinar cuál de las dos tarifas genera más ingresos para la empresa, basándose en los datos de 500 clientes durante el año 2018.
+Este proyecto se enfoca a determinar las clases de equivalencia y el diseno de casos de prueba, tomando como referencia los Requisitos del Aplicativo de Urban Routes.
 
 ## Descripción de las Tarifas
