@@ -60,7 +60,7 @@ La tarea es analizar y descomponer los requisitos, dividir en clases de equivale
 
 # CONCLUSIÓN
 
-En esta práctica de proyecto, me di cuenta que soy una apasionada por la detección de errores, pude profundizar mis habilidades como QA Engineer, utilizando herramientas Drawio y Google Sheet para documentar informe. Me siento motivada a seguir enfrentando nuevos desafíos que me permitan continuar mi crecimiento profesional en el campo de QA.
+En esta práctica de proyecto, pude profundizar mis habilidades como QA Engineer, utilizando herramientas Drawio y Google Sheet para documentar informe. Me siento motivada a seguir enfrentando nuevos desafíos que me permitan continuar mi crecimiento profesional en el campo de QA.
 
 ************
 
