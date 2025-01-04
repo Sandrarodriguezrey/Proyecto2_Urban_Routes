@@ -31,23 +31,42 @@ La tarea es analizar y descomponer los requisitos, dividir en clases de equivale
 
 ## Desarrollo del Proyecto:
 
-1. Analice minuciosamente los requisitos y los diseños para la función "Agregar licencia de conducir" plasmandolos de manera gráfica en un mapa mental.
+1. **Análisis de Requisitos:** Realicé un análisis detallado de los requisitos y diseños para la función "Agregar licencia de conducir", representándolos gráficamente en un mapa mental.
    
-2. **Dibuje el mapa mental** solo para el campo "Agregar licencia de conducir" y la ventana emergente correspondiente. No se incluyo otras partes del navegador a solicitud del proyecto. Considerando que el mapa mental lo dividi en dos partes: interfaz (cómo debería verse cada elemento) y funcionalidad. (cómo deberían comportarselas entradas de datos como usuario). De igual forma se adicionaron algunas zonas grises.
+2. **Mapa mental:** Elaboré el mapa mental exclusivamente para el campo "Agregar licencia de conducir" y su ventana emergente, excluyendo otras partes del navegador según lo solicitado en el proyecto. El mapa se dividió en dos secciones: interfaz (diseño visual de los elementos) y funcionalidad (comportamiento de los campos de entrada). También se añadieron áreas de incertidumbre (zonas grises).
    
-3. **Identifique las clases de equivalencia. y  defini los valores límite de cada clase.**
+3. **Identificación de Clases de Equivalencia:** Determiné las clases de equivalencia y definí los valores límite de cada una.
 
-4. Elegi los valores de prueba para comprobar cada clase y sus límites, para los dos campos: "Nombre" y "Apellido"
+4. **Selección de Valores de Prueba:** Elegí los valores de prueba para verificar las clases de equivalencia y sus límites, específicamente para los campos "Nombre" y "Apellido".
 
-5. **Disene el diagrama de flujo** solo en base a la velocidad del automóvil compartido en función de la hora de salida
+5. **Diagrama de Flujo:** Diseñé el diagrama de flujo enfocado en la velocidad del automóvil compartido según la hora de salida.
    
-6. Comprobe que el precio y la duración del viaje se calculen correctamente. Analice los requisitos para calcular la duración y el precio de compartir un automóvil en base a la tabla de Velocidad del automovil
+6. **Verificación de Cálculos:** Verifiqué que el precio y la duración del viaje se calcularan correctamente, analizando los requisitos y la tabla de velocidad del automóvil.
 
-7. Comprobe la logica del cálculo en base a velocidad y hora, y a las clases de equivalencia desarrolladas previamente.
+7. **Comprobación de la Lógica de Cálculo:** Comprobé la lógica del cálculo de la duración y el precio con base en la velocidad, la hora de salida y las clases de equivalencia desarrolladas previamente.
    
-9. Elegi valores de prueba para comprobar cada clase y sus límites en base a las fórmulas y el diagrama de flujo.
+8. **Pruebas de Valores de Clase:** Seleccioné valores de prueba para validar las clases de equivalencia y sus límites según las fórmulas y el diagrama de flujo.
     
-11. **Desarrolle Casos de prueba** basados en los valores de prueba dentro de las clases de equivalencia para comprobar que la lógica de cálculo de la duración y el precio de un viaje sea la correcta
+9. **Desarrollo de Casos de Prueba:** Creé casos de prueba utilizando los valores de prueba seleccionados para verificar que la lógica de cálculo de la duración y el precio del viaje fuera correcta.
 
 
-   
+## Herramientas utilizadas:
+
+**JIRA** Para el diseno de casos de pruebas y la gestion de errores.
+
+**Documentación de los requisitos** revisión y análisis de los requisitos proporcionados.
+
+**Hojas de calculo** Google sheets.
+
+# CONCLUSIÓN
+
+En esta práctica de proyecto, me di cuenta que soy una apasionada por la detección de errores, pude profundizar mis habilidades como QA Engineer, utilizando herramientas como JIRA y Google Sheet para documentar errores. Siempre estoy en busca de nuevos desafios que me permitan seguir creciendo como QA Engineer. 
+
+************
+
+
+:sparkles: **GRACIAS** por visitar este proyecto. 
+
+**MUCHAS ESTRELLITAS DE LUZ PARA TI** :star2::star2::star2::star2:
+
+**Si tienes preguntas puedes contactarme en mi Linkedln. :point_right: www.linkedin.com/in/sandrarodriguez461428179**
