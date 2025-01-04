@@ -52,15 +52,15 @@ La tarea es analizar y descomponer los requisitos, dividir en clases de equivale
 
 ## Herramientas utilizadas:
 
-**JIRA** Para el diseno de casos de pruebas y la gestion de errores.
-
 **Documentación de los requisitos** revisión y análisis de los requisitos proporcionados.
 
 **Hojas de calculo** Google sheets.
 
+**Diagramas** Drawio.
+
 # CONCLUSIÓN
 
-En esta práctica de proyecto, me di cuenta que soy una apasionada por la detección de errores, pude profundizar mis habilidades como QA Engineer, utilizando herramientas como JIRA y Google Sheet para documentar errores. Siempre estoy en busca de nuevos desafios que me permitan seguir creciendo como QA Engineer. 
+En esta práctica de proyecto, me di cuenta que soy una apasionada por la detección de errores, pude profundizar mis habilidades como QA Engineer, utilizando herramientas Drawio y Google Sheet para documentar informe. Me siento motivada a seguir enfrentando nuevos desafíos que me permitan continuar mi crecimiento profesional en el campo de QA.
 
 ************
 
