@@ -60,7 +60,7 @@ La tarea es analizar y descomponer los requisitos, dividir en clases de equivale
 
 # CONCLUSIÓN
 
-En esta práctica de proyecto, pude profundizar mis habilidades como QA Engineer, utilizando herramientas Drawio y Google Sheet para documentar informe. Me siento motivada a seguir enfrentando nuevos desafíos que me permitan continuar mi crecimiento profesional en el campo de QA.
+En este proyecto, apliqué técnicas de identificación de clases de equivalencia y diseño de casos de prueba para el aplicativo Urban Routes, utilizando herramientas como Drawio y Google Sheets. Realicé un análisis detallado de los requisitos, diseñé diagramas de flujo y verifiqué cálculos de duración y precio del viaje. Esta experiencia fortaleció mis habilidades como QA Engineer y me motivó a seguir creciendo profesionalmente en el campo de la calidad del software.
 
 ************
 
